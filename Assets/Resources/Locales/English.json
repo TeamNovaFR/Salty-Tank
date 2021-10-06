@@ -1,0 +1,6 @@
+{
+    "keys": {
+        "success_doors_title": "The Traveler (%d/500)",
+        "success_doors_desc": "Pass at least %d doors in one game"
+    }
+}

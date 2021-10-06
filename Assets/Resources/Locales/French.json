@@ -1,0 +1,6 @@
+{
+    "keys": {
+        "success_doors_title": "Le Passeur (%d/500)",
+        "success_doors_desc": "Passer au moins %d portes en une partie"
+    }
+}
